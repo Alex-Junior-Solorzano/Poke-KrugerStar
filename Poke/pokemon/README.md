@@ -31,7 +31,7 @@ La compilación se minimiza y los nombres de archivo incluyen los hashes.
 
 Si no está satisfecho con la herramienta de compilación y las opciones de configuración, puede 'expulsar' en cualquier momento. Este comando eliminará la dependencia de compilación única del proyecto.
 
-##Versionado 📌
+## Versionado 📌
 Versión 1.0.0
 
 ## Autor ✒️

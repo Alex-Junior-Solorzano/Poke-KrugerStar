@@ -31,6 +31,16 @@ La compilación se minimiza y los nombres de archivo incluyen los hashes.
 
 Si no está satisfecho con la herramienta de compilación y las opciones de configuración, puede 'expulsar' en cualquier momento. Este comando eliminará la dependencia de compilación única del proyecto.
 
+
+## Tecnologías 
+***
+
+Una lista de tecnologías utilizadas en el proyecto:
+* [material](https://mui.com): Version 5.10.9
+* [react-router-dom](https://reactrouter.com/en/main): Version 6.4.2
+* [web-vitals](https://www.npmjs.com/package/web-vitals): Version 2.1.4
+
+
 ## Versionado 📌
 Versión 1.0.0
 
